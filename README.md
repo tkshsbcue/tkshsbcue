@@ -17,6 +17,14 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
+## 🏆Competitive Programming!
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
+
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
