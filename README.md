@@ -14,14 +14,21 @@
 ✉️ &nbsp;You can shoot me an email at kumar.tanay@somaiya.edu! I'll try to respond as soon as I can.  
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1vnIVhCyZUSFNq2ev9IURVNbnWl8eQQDE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="200"/>
+    </td>
+    <td>
+      <h2>🏆 Competitive Programming!</h2>
+      <p>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Competitive Programming!
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="100%" />
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats" />
-</p>
 
 
 ### 🛠 &nbsp;Tech Stack
