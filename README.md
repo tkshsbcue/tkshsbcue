@@ -15,16 +15,14 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1vnIVhCyZUSFNq2ev9IURVNbnWl8eQQDE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 🏆 Competitive Programming!
 
-
-## 🏆Competitive Programming!
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="100%" />
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
-   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kumar.tanay&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
-
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats" />
 </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
