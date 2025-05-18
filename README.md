@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanayiphone6sse&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
+   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kumar.tanay&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
 
 </p>
 
