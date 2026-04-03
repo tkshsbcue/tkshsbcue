@@ -67,18 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-* 🧠 **AI Academic Planner**
-  Intelligent scheduling system using constraints and AI-based decision making
-
-* 🌾 **Farmer-to-Customer Platform (ONDC Ready)**
-  Eliminates intermediaries and integrates an AI chatbot for accessibility
-
-* ⚡ **WASM To-Do Application**
-  Built using C++ and WebAssembly for high performance in the browser
-
----
 
 ## 🌍 Open Source
 
